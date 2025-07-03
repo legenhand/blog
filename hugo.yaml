@@ -1,6 +1,8 @@
 baseURL: "https://blog-vp4m.vercel.app/"
 title: ExampleSite
-theme: PaperMod
+theme: ["PaperMod"]
+
+
 
 enableRobotsTXT: true
 buildDrafts: false
